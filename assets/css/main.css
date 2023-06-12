@@ -2246,6 +2246,8 @@ input, select, textarea {
 			display: flex;
 			justify-content: end;
 			color: #fff;
+			font-size: xxx-large;
+	    		font-weight: 800;
 		  }
 		  .samko-nadpis{
 			display: flex;
